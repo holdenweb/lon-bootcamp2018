@@ -12,6 +12,6 @@ aren't left behind right at the start!**
 
 After participating in this workshop you should be able to:
 
-* Walk on water
-* Fly to the moon
-* Leap tall buildings at a single bound
+* Understand the relationship between Python, Jupyter and various toolkits
+* Create conda virtual environments and install packages in them
+* Apply Python libraries to solve problems in Jupyter notebooks
